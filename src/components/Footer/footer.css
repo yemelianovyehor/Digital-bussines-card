@@ -1,0 +1,11 @@
+.socials-list{
+    background-color: #161619;
+    padding-left: 0;
+    padding-top: 0.7em;
+    padding-bottom: 0.5em;
+    list-style: none;
+    justify-content: center;
+    margin:auto;
+    gap:25px;
+    border-radius: 0 0 10px 10px;
+}

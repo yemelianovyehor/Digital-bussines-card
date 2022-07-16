@@ -1,0 +1,19 @@
+.email-button{
+    background-color: #D1D5DB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 2em;
+    border-radius: 10px;
+    gap: 10px;
+    color:#374151;
+    font-weight: 500;
+    font-size: medium;
+    margin:auto;
+    margin-top: 1em;
+}
+
+.email-button > a {
+    text-decoration: none;
+}
